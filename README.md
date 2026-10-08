@@ -1,3 +1,15 @@
+# Controls
+
+Player 1
+
+W → move up
+S → move down
+
+Player 2
+
+↑ → move up
+↓ → move down
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
