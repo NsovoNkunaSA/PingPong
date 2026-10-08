@@ -2,13 +2,15 @@
 
 Player 1
 
-W → move up
-S → move down
+  W → move up
+
+  S → move down
 
 Player 2
 
-↑ → move up
-↓ → move down
+  ↑ → move up
+  
+  ↓ → move down
 
 # React + Vite
 
