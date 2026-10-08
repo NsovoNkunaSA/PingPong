@@ -1,3 +1,7 @@
+# PLAY HERE
+
+https://pingpong-blush-pi.vercel.app/
+
 # Controls
 
 Player 1
