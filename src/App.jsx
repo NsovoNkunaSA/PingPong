@@ -18,7 +18,7 @@ function PlayerSetup({ startGame }) {
 
   return (
     <main className="setup">
-      <h1>Pong Game</h1>
+      <h1>Ping Pong </h1>
       <p>Enter the names of both players.</p>
 
       <form onSubmit={handleSubmit}>
